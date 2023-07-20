@@ -1,4 +1,4 @@
-### Hi 👋 I'm peter mutwiriri,web developer and data analyst
+### Hi 👋 I'm peter mutwiri,web developer and data analyst
 
 
 - 🔭 I’m currently working on machine learning models intermediate and advanced levels
