@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="https://github.com/PETERMUTWIRI/PETERMUTWIRI/blob/main/assets/84850942/7e7ed2b2-4068-4801-b9fc-62b07156d82b.png" alt="my PETERMUTWI">
+  <img width="200" height="200" src="https://github.com/PETERMUTWIRI/PETERMUTWIRI/issues/1#issue-1816020194">
 </p>
 <h3 align="center">
 Hi there, I'm Peter Mutwiri👋
@@ -10,6 +10,7 @@ Hi there, I'm Peter Mutwiri👋
 I'm a Data Analyst and Web Developer
 </h2>
 The dynamic and ever-evolving nature of data analysis keeps me engaged and curious, as I continually seek to sharpen my skills and embrace new technologies and methodologies. The process of extracting patterns, trends, and correlations from data ignites a sense of accomplishment and fuels my passion for problem-solving.
+## Reach me on:
 <a href="https://www.linkedin.com/in/peter-mutwiri-989a72234"><img align="left" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/linkedin.svg" Alt="peter mutwiri|linkedin" width="21px"/></a>
 <a href="https://peter mutwiri.medium.com/"><img align="left" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/medium.svg"Alt="peter mutwiri|medium"  width="21px"/></a>
 
@@ -36,39 +37,23 @@ start to end Regression time series projects with over four types of models
 </br>
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-
- 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-	
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-
-	
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-	
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-	
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-	
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-	
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
 ## 📈 GitHub Stats 
 
 [
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/PETERMUTWIRI)
+    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PETERMUTWIRI)](https://github.com/PETERMUTWIRI)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/PETERMUTWIRI)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PETERMUTWIRI&layout=compact)](https://github.com/PETERMUTWIRI)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=PETERMUTWIRI.PETERMUTWIRI)](https://github.com/PETERMUTWIRI)
 
