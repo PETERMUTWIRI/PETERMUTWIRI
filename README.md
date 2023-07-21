@@ -26,7 +26,7 @@ The dynamic and ever-evolving nature of data analysis keeps me engaged and curio
 
 <div style="clear: left; margin-top: 10px;">
   </div>
-##🌱 I'm currently learning
+
 
 
 
