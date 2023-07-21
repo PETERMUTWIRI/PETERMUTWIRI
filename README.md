@@ -28,9 +28,9 @@ Am open for collaboration or any enquiry
 <div style="clear: left; margin-top: 10px;">
   <h2>🌱 I'm currently learning</h2>
 </div>
-Creating and implementing API
+Creating and implementing API's in data oriented projects and concepts
 </br>
-Creating UI for pre-trained ML models
+Creating UI for pre-trained ML models and deployment
 
  ## My Completed Projects
 Start to end customer churn ML classification project trained with over four types of models
