@@ -2,7 +2,7 @@
   <img src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/PETERMUTWI.MD.png" alt="PETERMUTWIRI">
 </div>
 
-<3> align="center>
+<3> align="center">
 Hi there, I'm Peter Mutwiri👋
 </h3>
 
@@ -22,6 +22,7 @@ The dynamic and ever-evolving nature of data analysis keeps me engaged and curio
 </p>
 
 ## 🌱 I'm currently learning
+
 Creating and implementing API
 </br>
 Creating UI for pre-trained ML models
