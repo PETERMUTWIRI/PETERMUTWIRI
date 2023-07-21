@@ -23,7 +23,7 @@ The dynamic and ever-evolving nature of data analysis keeps me engaged and curio
     <img align="left" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/medium.svg" alt="peter mutwiri | medium" width="21px" />
   </a>
 </div>
-
+Am open for collaboration or any enquiry
 
 <div style="clear: left; margin-top: 10px;">
   <h2>🌱 I'm currently learning</h2>
@@ -32,7 +32,7 @@ Creating and implementing API
 </br>
 Creating UI for pre-trained ML models
 
- ## My Compleeted Projects
+ ## My Completed Projects
 Start to end customer churn ML classification project trained with over four types of models
 </br>
 start to end Regression time series projects with over four types of models
