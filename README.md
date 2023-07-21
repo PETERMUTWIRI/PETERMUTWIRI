@@ -1,7 +1,7 @@
-<p align="center">
-  <img width="200" height="200" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/PETERMUTWI.MD.png"Alt="PETERMUTWIRI">
-</p>
-<h3 align="center">
+<div align="center">
+  <img src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/PETERMUTWI.MD.png" alt="PETERMUTWIRI">
+</div>
+
 Hi there, I'm Peter Mutwiri👋
 </h3>
 
