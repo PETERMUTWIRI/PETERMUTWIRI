@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="https://github.com/PETERMUTWIRI/PETERMUTWIRI/issues/1#issue-1816020194">
+  <img width="200" height="200" src="![PETERMUTWI MD](https://github.com/PETERMUTWIRI/PETERMUTWIRI/assets/84850942/7e7ed2b2-4068-4801-b9fc-62b07156d82b)">
 </p>
 <h3 align="center">
 Hi there, I'm Peter Mutwiri👋
@@ -9,7 +9,9 @@ Hi there, I'm Peter Mutwiri👋
 <h2 align="center">
 I'm a Data Analyst and Web Developer
 </h2>
+<p>
 The dynamic and ever-evolving nature of data analysis keeps me engaged and curious, as I continually seek to sharpen my skills and embrace new technologies and methodologies. The process of extracting patterns, trends, and correlations from data ignites a sense of accomplishment and fuels my passion for problem-solving.
+</p>
 ## Reach me on:
 <a href="https://www.linkedin.com/in/peter-mutwiri-989a72234"><img align="left" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/linkedin.svg" Alt="peter mutwiri|linkedin" width="21px"/></a>
 <a href="https://peter mutwiri.medium.com/"><img align="left" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/medium.svg"Alt="peter mutwiri|medium"  width="21px"/></a>
@@ -18,8 +20,9 @@ The dynamic and ever-evolving nature of data analysis keeps me engaged and curio
 Creating and implementing API
 Creating UI for pre-trained ML models
 
-My old Projects
+ ## My Compleeted Projects
 Start to end customer churn ML classification project trained with over four types of models
+</br>
 start to end Regression time series projects with over four types of models
 ## 💼 Technical Skills
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
