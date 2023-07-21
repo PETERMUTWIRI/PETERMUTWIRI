@@ -24,14 +24,9 @@ The dynamic and ever-evolving nature of data analysis keeps me engaged and curio
   </a>
 </div>
 
-<div style="clear: left; margin-top: 10px;"</div>
-  
-
-
-
-
-## 🌱 I'm currently learning
-
+<div style="clear: left; margin-top: 10px;">
+  <h2>🌱 I'm currently learning</h2>
+</div>
 Creating and implementing API
 </br>
 Creating UI for pre-trained ML models
