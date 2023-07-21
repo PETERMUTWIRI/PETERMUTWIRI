@@ -15,11 +15,10 @@ The dynamic and ever-evolving nature of data analysis keeps me engaged and curio
 </p>
 
 ## 🤝 Connect with me:
-
-<p>
+<div>
 <a href="https://www.linkedin.com/in/peter-mutwiri-989a72234"><img align="left" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/linkedin.svg" Alt="peter mutwiri|linkedin" width="21px"/></a>
 <a href="https://peter mutwiri.medium.com/"><img align="left" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/medium.svg"Alt="peter mutwiri|medium"  width="21px"/></a>
-</p>
+</div>
 
 ## 🌱 I'm currently learning
 
