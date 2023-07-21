@@ -24,8 +24,8 @@ The dynamic and ever-evolving nature of data analysis keeps me engaged and curio
   </a>
 </div>
 
-<div style="clear: left; margin-top: 10px;">
-  </div>
+<div style="clear: left; margin-top: 10px;"</div>
+  
 
 
 
