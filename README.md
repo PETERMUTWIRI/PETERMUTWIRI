@@ -1,16 +1,74 @@
-### Hi 👋 I'm peter mutwiri,web developer and data analyst
+<p align="center">
+  <img width="200" height="200" src="https://github.com/PETERMUTWIRI/PETERMUTWIRI/blob/main/assets/84850942/7e7ed2b2-4068-4801-b9fc-62b07156d82b.png" alt="my PETERMUTWI">
+</p>
+<h3 align="center">
+Hi there, I'm Peter Mutwiri👋
+</h3>
 
 
-- 🔭 I’m currently working on machine learning models intermediate and advanced levels
-- 👯 I’m looking to collaborate on Machine Learning projects interegrated into responsive websites
-- 🤔 I’m looking for help with python backend stracture
-- 📫 How to reach me: mutpeet@gmail.com
-- ⚡ Fun fact:FIRT PROGRAMMING LANGUAGE WAS INVENTED BY A DOUGHTER OF A MAD POET
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=petermutwiri&label=Profile%20views&color=0e75b6&style=flat" alt="petermutwiri" /> </p>
+<h2 align="center">
+I'm a Data Analyst and Web Developer
+</h2>
+The dynamic and ever-evolving nature of data analysis keeps me engaged and curious, as I continually seek to sharpen my skills and embrace new technologies and methodologies. The process of extracting patterns, trends, and correlations from data ignites a sense of accomplishment and fuels my passion for problem-solving.
+<a href="https://www.linkedin.com/in/peter-mutwiri-989a72234"><img align="left" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/linkedin.svg" Alt="peter mutwiri|linkedin" width="21px"/></a>
+<a href="https://peter mutwiri.medium.com/"><img align="left" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/medium.svg"Alt="peter mutwiri|medium"  width="21px"/></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petermutwiri" alt="petermutwiri" /></a> </p>
+## 🌱 I'm currently learning
+Creating and implementing API
+Creating UI for pre-trained ML models
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/peter-mutwiri-989a72234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/peter-mutwiri-989a72234/" height="30" width="40" /></a>
+My old Projects
+Start to end customer churn ML classification project trained with over four types of models
+start to end Regression time series projects with over four types of models
+## 💼 Technical Skills
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+</br>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</br>
+
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
+ 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+	
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+
+	
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+	
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+	
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+	
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+	
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+
+## 📈 GitHub Stats 
+
+[
+    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/PETERMUTWIRI)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/PETERMUTWIRI)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=PETERMUTWIRI.PETERMUTWIRI)](https://github.com/PETERMUTWIRI)
 
