@@ -2,6 +2,7 @@
   <img src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/PETERMUTWI.MD.png" alt="PETERMUTWIRI">
 </div>
 
+<3> align="center>
 Hi there, I'm Peter Mutwiri👋
 </h3>
 
@@ -12,7 +13,9 @@ I'm a Data Analyst and Web Developer
 <p>
 The dynamic and ever-evolving nature of data analysis keeps me engaged and curious, as I continually seek to sharpen my skills and embrace new technologies and methodologies. The process of extracting patterns, trends, and correlations from data ignites a sense of accomplishment and fuels my passion for problem-solving.
 </p>
+
 ## 🤝 Connect with me:
+
 <p>
 <a href="https://www.linkedin.com/in/peter-mutwiri-989a72234"><img align="left" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/linkedin.svg" Alt="peter mutwiri|linkedin" width="21px"/></a>
 <a href="https://peter mutwiri.medium.com/"><img align="left" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/medium.svg"Alt="peter mutwiri|medium"  width="21px"/></a>
@@ -20,6 +23,7 @@ The dynamic and ever-evolving nature of data analysis keeps me engaged and curio
 
 ## 🌱 I'm currently learning
 Creating and implementing API
+</br>
 Creating UI for pre-trained ML models
 
  ## My Compleeted Projects
