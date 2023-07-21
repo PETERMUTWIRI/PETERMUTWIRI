@@ -2,8 +2,8 @@
   <img src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/PETERMUTWI.MD.png" alt="PETERMUTWIRI">
 </div>
 
-<h3> align="center">
-Hi there, I'm Peter Mutwiri👋
+<h3 align="center">
+Hi there,👋 I'm Peter Mutwiri
 </h3>
 
 
