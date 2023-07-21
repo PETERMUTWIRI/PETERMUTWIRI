@@ -14,8 +14,8 @@ I'm a Data Analyst and Web Developer
 The dynamic and ever-evolving nature of data analysis keeps me engaged and curious, as I continually seek to sharpen my skills and embrace new technologies and methodologies. The process of extracting patterns, trends, and correlations from data ignites a sense of accomplishment and fuels my passion for problem-solving.
 </p>
 
-## 🤝 Connect with me:
 <div>
+  <h2>🤝 Connect with me:</h2>
   <a href="https://www.linkedin.com/in/peter-mutwiri-989a72234">
     <img align="left" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/linkedin.svg" alt="peter mutwiri | linkedin" width="21px" />
   </a>
@@ -23,6 +23,7 @@ The dynamic and ever-evolving nature of data analysis keeps me engaged and curio
     <img align="left" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/medium.svg" alt="peter mutwiri | medium" width="21px" />
   </a>
 </div>
+
 
 <div style="clear: left; margin-top: 10px;">
   <h2>🌱 I'm currently learning</h2>
