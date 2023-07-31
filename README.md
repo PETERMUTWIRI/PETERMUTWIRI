@@ -23,7 +23,7 @@ The dynamic and ever-evolving nature of data analysis keeps me engaged and curio
     <img align="left" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/medium.svg" alt="peter mutwiri | medium" width="21px" />
   </a>
 </div>
-Am open for collaboration or any enquiry
+Am open for collaboration or any enquiries 
 
 <div style="clear: left; margin-top: 10px;">
   <h2>🌱 I'm currently learning</h2>
