@@ -1,0 +1,36 @@
+name: Daily Contribution
+
+# Schedule: runs at 00:05 UTC every day
+on:
+  schedule:
+    - cron: '5 0 * * *'
+  # Also allow manual trigger if needed\ n  workflow_dispatch: {}
+
+jobs:
+  stamp-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+
+      - name: Update README timestamp
+        run: |
+          TODAY=$(date -u +"%Y-%m-%d UTC")
+          if grep -q "Last commit stamp:" README.md; then
+            sed -i "s/^Last commit stamp:.*$/Last commit stamp: $TODAY/" README.md
+          else
+            echo -e "\nLast commit stamp: $TODAY" >> README.md
+          fi
+
+      - name: Commit & Push
+        run: |
+          git add README.md
+          git commit -m "chore: added updates" || echo "No changes to commit"
+          git push
