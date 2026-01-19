@@ -1,73 +1,70 @@
-<div align="center">
-  <img src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/PETERMUTWI.MD.png" alt="PETERMUTWIRI">
-</div>
+&lt;div align="center"&gt;
+  &lt;img src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/PETERMUTWI.MD.png" alt="PETERMUTWIRI"&gt;
+&lt;/div&gt;
 
-<h3 align="center">
-Hi there,👋 I'm Peter Mutwiri
-</h3>
+&lt;h3 align="center"&gt;Hi there, 👋 I’m Peter Mutwiri&lt;/h3&gt;
+&lt;h2 align="center"&gt;Full-Stack Engineer | AI-Agent Builder | CloudOps Mercenary&lt;/h2&gt;
 
+&lt;p align="center"&gt;
+  &lt;strong&gt;Current mission:&lt;/strong&gt; Ship production-grade AI copilots, keep the AWS bill low, and stop Stripe from eating SaaS margins.
+&lt;/p&gt;
 
-<h2 align="center">
-I'm a Data Analyst and Web Developer
-</h2>
-<p>
-The dynamic and ever-evolving nature of data analysis keeps me engaged and curious, as I continually seek to sharpen my skills and embrace new technologies and methodologies. The process of extracting patterns, trends, and correlations from data ignites a sense of accomplishment and fuels my passion for problem-solving.
-</p>
+---
 
-<div>
-  <h2>🤝 Connect with me:</h2>
-  <a href="https://www.linkedin.com/in/peter-mutwiri-989a72234">
-    <img align="left" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/linkedin.svg" alt="peter mutwiri | linkedin" width="21px" />
-  </a>
-  <a href="https://petermutwiri.medium.com/">
-    <img align="left" src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/medium.svg" alt="peter mutwiri | medium" width="21px" />
-  </a>
-</div>
-Am open for collaboration or any enquiries 
+### 🚀 Latest Fire (2024-2025)
 
-<div style="clear: left; margin-top: 10px;">
-  <h2>🌱 I'm currently learning</h2>
-</div>
-Creating and implementing API's in data oriented projects and concepts
-</br>
-Creating UI for pre-trained ML models and deployment
+| Stack | What Went Live | Repo / Link |
+|-------|----------------|-------------|
+| **MutsynChub** – Analytics Copilot | Redis-driven event hub, DuckDB + pg-vector, 5 autonomous agents (embed, chat, KPI, entity, industry detector). 100 % TypeScript, serverless on Vercel. | [mutsynchub.app](https://mutsynchub.app) |
+| **Neon-Stack-Auth Refactor** | Fixed race-conditions, cache poisoning, TS strict-null, zero build errors. SSR role resolution, Google SSO, atomic logout hook. 
+| **Vibe-Code Agency** | 4 shipped sites in 30 days (Next.js, Tailwind, Stripe, Resend). 100 % prompt-to-prod, 0 % hand-written CRUD. | Portfolio below |
+| **POS Plug-in** | Node bridge that pushes CSV sales → DuckDB lake nightly; used by 3 Kenyan retailers. | [petermutwiri/pos-sync](https://github.com/PETERMUTWIRI/pos-sync) |
 
- ## My Completed Projects
-Start to end customer churn ML classification project trained with over four types of models
-</br>
-start to end Regression time series projects with over four types of models
-## 💼 Technical Skills
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+---
 
-</br>
+### 🧠 Agent Architecture I Use
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+1. **Ingest** – S3 / Webhook → Redis Streams (event sourcing)  
+2. **Embed** – OpenAI text-embedding-3 → pg-vector (DuckDB for OLAP)  
+3. **Plan** – ReAct loop (function-calling) with deterministic guardrails  
+4. **Memory** – Thread-level conversation memory, long-term Zep hybrid  
+5. **Ops** – Vercel edge functions, CloudWatch alarms, SLO: 250 ms p95  
+6. **Wallet** – Usage-metered → Stripe meter events → automatic top-up
 
-</br>
+---
 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+### ☁️ Cloud & Ops
+- **AWS** – CDK-Terraform hybrid, VPC-less serverless, EventBridge pipes, S3 life-cycle 30 d → Glacier.  
+- **Oracle Cloud** – Always-Free ARM VM running Plausible analytics + n8n workflows.  
+- **Vercel** – All customer front-ends, Preview-per-PR, 0-downtime.  
+- **DuckDB-WASM** – Browser-side OLAP, no backend for &lt; 50 MB datasets.  
+- **Monitoring** – Grafana Cloud (Prometheus), PagerDuty on 5 % error budget burn.
 
+---
 
-## 📈 GitHub Stats 
+### 🛠️ Current Toolkit
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF?style=flat-square&logo=duckdb&logoColor=000)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-232F3E?style=flat-square&logo=amazon-aws&logoColor=orange)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
+---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PETERMUTWIRI&token=PAT_1)](https://github.com/PETERMUTWIRI)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PETERMUTWIRI&layout=compact&token=PAT_1)](https://github.com/PETERMUTWIRI)
+### 📈 GitHub Pulse
+[![Stats](https://github-readme-stats.vercel.app/api?username=PETERMUTWIRI&show_icons=true&theme=radical)](https://github.com/PETERMUTWIRI)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PETERMUTWIRI&layout=compact&theme=radical)](https://github.com/PETERMUTWIRI)
 
+---
 
-Last commit stamp: 2025-11-29 UTC
+### 🤝 Open to
+- Fractional SRE / AI-agent gigs   
+- Technical writing on serverless + AI patterns
+
+Last commit: 2025-01-20 UTC
