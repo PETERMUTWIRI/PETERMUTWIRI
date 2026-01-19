@@ -1,14 +1,13 @@
-&lt;div align="center"&gt;
-  &lt;img src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/PETERMUTWI.MD.png" alt="PETERMUTWIRI"&gt;
-&lt;/div&gt;
+<div align="center">
+  <img src="https://github.com/PETERMUTWIRI/readme-images/blob/main/images/PETERMUTWI.MD.png" alt="PETERMUTWIRI">
+</div>
 
-&lt;h3 align="center"&gt;Hi there, 👋 I’m Peter Mutwiri&lt;/h3&gt;
-&lt;h2 align="center"&gt;Full-Stack Engineer | AI-Agent Builder | CloudOps Mercenary&lt;/h2&gt;
+<h3 align="center">Hi there, 👋 I’m Peter Mutwiri</h3>
+<h2 align="center">Full-Stack Engineer | AI-Agent Builder | CloudOps Mercenary</h2>
 
-&lt;p align="center"&gt;
-  &lt;strong&gt;Current mission:&lt;/strong&gt; Ship production-grade AI copilots, keep the AWS bill low, and stop Stripe from eating SaaS margins.
-&lt;/p&gt;
-
+<p align="center">
+  <strong>Current mission:</strong> Ship production-grade AI copilots, keep the AWS bill low, and stop Stripe from eating SaaS margins.
+</p>
 ---
 
 ### 🚀 Latest Fire (2024-2025)
