@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">Hi there, 👋 I’m Peter Mutwiri</h3>
-<h2 align="center">Full-Stack Engineer | AI-Agent Builder | CloudOps Mercenary</h2>
+<h2 align="center">Full-Stack Engineer | AI-Agent Builder | CloudOps Engineer</h2>
 
 <p align="center">
   <strong>Current mission:</strong> Ship production-grade AI copilots, keep the AWS bill low, and stop Stripe from eating SaaS margins.
